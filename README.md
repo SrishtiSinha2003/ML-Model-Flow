@@ -7,8 +7,11 @@ Follow the steps outlined below for a structured approach to developing your ML 
 ***Table of Contents***
 <br>
 - [Project Overview](#project-overview)
+<br>
 - [Requirements](#requirements)
+<br>
 - [Steps to Build the ML Model](#steps-to-build-the-ml-model)
+<br>
   1. [Data Preprocessing](#1-data-preprocessing)
   2. [Exploratory Data Analysis (EDA)](#2-exploratory-data-analysis-eda)
      - [Univariate Analysis](#univariate-analysis)
