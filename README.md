@@ -1,12 +1,31 @@
-### **Machine Learning Model Building Workflow**
+## Machine Learning Model Building Workflow
 <br>
 This repository provides a step-by-step guide for building, training, evaluating, and deploying a machine learning (ML) model. <br>
 Follow the steps outlined below for a structured approach to developing your ML model.
 <br>
 <br>
 
-***Table of Contents***
-
+**Table of Contents**
+<br>
+Data Preprocessing
+<br>
+Exploratory Data Analysis (EDA)
+<br>
+Univariate Analysis
+<br>
+Bivariate Analysis
+<br>
+Feature Selection
+<br>
+Extract Input and Output Columns
+<br>
+Scaling the Data
+<br>
+Model Training
+<br>
+Model Evaluation and Selection
+<br>
+Model Deployment
 
 <br>
 
